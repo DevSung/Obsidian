@@ -1,0 +1,2 @@
+# Obsidian
+public note repository
